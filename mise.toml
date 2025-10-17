@@ -1,6 +1,0 @@
-[tools]
-direnv = "latest"
-kubectl = "latest"
-neovim = "latest"
-
-
